@@ -10,4 +10,3 @@ public:
 	int doFact(int numInput, int primeFactor);
 	vector<int> factData;
 };
-
